@@ -5,6 +5,7 @@
 In this exercise, we explore the use of SQL DateTime functions to work with date and time data. You'll learn how to extract, filter, and manipulate date-related fields from a database using SQL.
 
 These techniques are particularly useful when analyzing time-based data such as sales, revenue trends, or customer activity.
+
 ---
 ## 🎯 Learning Objectives
 By the end of this exercise, you will be able to:
